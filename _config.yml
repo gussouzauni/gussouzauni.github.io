@@ -10,3 +10,8 @@ github_username:
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-maps
+maps:
+  google:
+    api_key: AIzaSyDw73LDcwU10BNVQNfImak833cZOdNF1EA
